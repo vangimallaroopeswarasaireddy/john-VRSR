@@ -137,7 +137,7 @@ export function ChatPanel({ messages, setMessages, addTask }: ChatPanelProps) {
               </div>
               {message.role === 'user' && (
                 <Avatar className="w-8 h-8">
-                  <AvatarFallback>U</AvatarFallback>
+                  <AvatarFallback>VR</AvatarFallback>
                 </Avatar>
               )}
             </div>

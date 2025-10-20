@@ -91,9 +91,9 @@ export function Dashboard() {
                 <div className="flex items-center gap-2">
                     <Avatar className="w-8 h-8">
                         <AvatarImage src="https://picsum.photos/seed/user/100/100" data-ai-hint="person face" />
-                        <AvatarFallback>U</AvatarFallback>
+                        <AvatarFallback>VR</AvatarFallback>
                     </Avatar>
-                    <span className="text-sm font-medium">User</span>
+                    <span className="text-sm font-medium">Vangimalla Roopeswara Sai Reddy</span>
                 </div>
                 <Button variant="ghost" size="icon">
                     <LogOut className="w-4 h-4" />

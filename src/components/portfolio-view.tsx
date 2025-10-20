@@ -13,7 +13,7 @@ import { PlaceHolderImages } from '@/lib/placeholder-images';
 import Image from 'next/image';
 
 const exampleContent = `
-Name: Alex Doe
+Name: Vangimalla Roopeswara Sai Reddy (VRSR)
 Role: Full-Stack Developer & AI Enthusiast
 
 About Me:
