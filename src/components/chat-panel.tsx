@@ -162,7 +162,7 @@ export function ChatPanel({ messages, setMessages, addTask }: ChatPanelProps) {
           <Textarea
             value={input}
             onChange={e => setInput(e.target.value)}
-            placeholder="Ask Synergy OS anything..."
+            placeholder="Ask John(VRSR) anything..."
             className="pr-24 min-h-[48px] resize-none"
             onKeyDown={(e) => {
                 if (e.key === 'Enter' && !e.shiftKey) {

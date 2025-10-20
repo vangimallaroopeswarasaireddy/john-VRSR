@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
-  title: 'Synergy OS',
+  title: 'John(VRSR)',
   description: 'A multi-agent AI assistant for productivity, learning, and portfolio management.',
 };
 

@@ -26,12 +26,12 @@ const initialMessages: Message[] = [
     {
       id: '1',
       role: 'assistant',
-      content: "Welcome to Synergy OS! I'm your integrated AI assistant. I can help you with tasks, tutoring, and your portfolio. How can I assist you today?",
+      content: "Welcome to John(VRSR)! I'm your integrated AI assistant. I can help you with tasks, tutoring, and your portfolio. How can I assist you today?",
     },
 ];
 
 const initialTasks: Task[] = [
-    { id: '1', text: 'Design the UI for Synergy OS', completed: true },
+    { id: '1', text: 'Design the UI for John(VRSR)', completed: true },
     { id: '2', text: 'Develop the multi-agent backend', completed: false },
     { id: '3', text: 'Prepare for the final presentation', completed: false },
 ];
@@ -79,7 +79,7 @@ export function Dashboard() {
         <SidebarHeader>
           <div className="flex items-center gap-2">
             <SynergyOSLogo className="w-8 h-8" />
-            <h1 className="text-xl font-semibold font-headline">Synergy OS</h1>
+            <h1 className="text-xl font-semibold font-headline">John(VRSR)</h1>
           </div>
         </SidebarHeader>
         <SidebarContent>

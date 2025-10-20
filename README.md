@@ -1,4 +1,4 @@
-# Synergy OS
+# John(VRSR)
 
 This is a NextJS starter in Firebase Studio.
 

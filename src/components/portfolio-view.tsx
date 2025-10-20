@@ -22,7 +22,7 @@ A creative developer with a passion for building beautiful and functional applic
 Projects:
 1. Project Alpha: An e-commerce platform built with Next.js and Stripe. Features include a custom CMS and real-time inventory management.
 2. Project Beta: A mobile app for task management using React Native. It uses Firebase for authentication and data storage.
-3. Synergy OS: A multi-agent AI assistant for enhanced productivity.
+3. John(VRSR): A multi-agent AI assistant for enhanced productivity.
 
 Skills:
 - JavaScript, TypeScript, Python

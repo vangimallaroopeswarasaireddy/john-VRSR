@@ -26,7 +26,7 @@ async function runWithContext(
   contextMemory: string
 ) {
   const contextualized = await contextualizeAgentResponse({
-    agentName: 'SynergyOS',
+    agentName: 'John(VRSR)',
     userInput,
     agentResponse,
     contextMemory,
