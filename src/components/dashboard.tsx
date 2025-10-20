@@ -88,13 +88,13 @@ export function Dashboard() {
         <SidebarFooter>
             <Separator className="my-2" />
             <div className="flex items-center justify-between p-2">
-                <div className="flex items-center gap-2">
+                <a href="https://vangimallaroopeswarasaireddy.github.io/vangimallaroopeswarasaireddy/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 group">
                     <Avatar className="w-8 h-8">
                         <AvatarImage src="https://picsum.photos/seed/user/100/100" data-ai-hint="person face" />
                         <AvatarFallback>VR</AvatarFallback>
                     </Avatar>
-                    <span className="text-sm font-medium">Vangimalla Roopeswara Sai Reddy</span>
-                </div>
+                    <span className="text-sm font-medium group-hover:underline">Vangimalla Roopeswara Sai Reddy</span>
+                </a>
                 <Button variant="ghost" size="icon">
                     <LogOut className="w-4 h-4" />
                 </Button>
