@@ -1,4 +1,4 @@
-# Firebase Studio
+# Synergy OS
 
 This is a NextJS starter in Firebase Studio.
 
